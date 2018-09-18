@@ -1,8 +1,8 @@
-# Star
-This sample application mainly shows how to implement shaders loading , program creation, linking, Vertex data loading, texture data loadingand other preliminary operations of drawing with OPENTK, and finally draw a multilateral graph (five-pointed star) with DrawElements API.
+# Graffiti 
+This sample application mainly shows how to respond to click events/button events and draw a dot/line at the corresponding position on the screen.
 
 
-![OPENTK](./Screenshots/Star.png)
+![OPENTK](./Screenshots/Graffiti.png)
 
 ## License
 Copyright (c) 2017 Samsung Electronics Co., Ltd.
