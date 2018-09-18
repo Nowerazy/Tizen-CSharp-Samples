@@ -324,3 +324,20 @@ ASALocalRun/
 # Stylecop files
 Settings.StyleCop
 StyleCop.Cache
+/TV/Ball3D/Ball3D/Settings.StyleCop
+/TV/Ball3D/Ball3D/StyleCop.Cache
+/TV/CubeTexture/CubeTexture/Settings.StyleCop
+/TV/CubeTexture/CubeTexture/StyleCop.Cache
+/TV/Graffiti/Graffiti/Settings.StyleCop
+/TV/Graffiti/Graffiti/StyleCop.Cache
+/TV/Panorama360/Panorama360View/Settings.StyleCop
+/TV/Panorama360/Panorama360View/StyleCop.Cache
+/TV/ParticleDynamic/ParticleDynamic/Settings.StyleCop
+/TV/ParticleDynamic/ParticleDynamic/StyleCop.Cache
+/TV/ScratchPaper/ScratchPaper/Settings.StyleCop
+/TV/ScratchPaper/ScratchPaper/StyleCop.Cache
+/TV/Star/Star/Settings.StyleCop
+/TV/Star/Star/StyleCop.Cache
+/TV/Triangle/Triangle/Settings.StyleCop
+/TV/Triangle/Triangle/StyleCop.Cache
+/TV/Panorama360/Panorama360View.sln
