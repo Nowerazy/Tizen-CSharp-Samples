@@ -13,7 +13,6 @@
 //limitations under the License.
 
 using NetworkApp.Models;
-using NetworkApp.Tizen.Mobile;
 using System;
 using System.Collections.ObjectModel;
 using Tizen.Wearable.CircularUI.Forms;
@@ -36,7 +35,7 @@ namespace NetworkApp.Views
         /// <summary>
         /// Initializes a new instance of the <see cref="RootPage"/> class
         /// </summary>
-        public NetworkListPage ()
+        public NetworkListPage()
         {
             InitializeComponent();
             RotaryFocusObject = listView;
